@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['085640159364'] //ur owner tag
 global.ownernummenu = ['085640149364'] //ur owner number in menu and all
 global.watermark = "BotRexxy." //ur watermark
-global.botscript = "Youtube.com"
+global.botscript = "Ambil Di Github Yang Punya Sc nya:DGXeon Jangan Lupa Folow Nya"
 global.linkz1 = "https://chat.whatsapp.com/Ju9UCvecNnV7E7BfTaZEpt"
 global.linkz2 = "Belom Tersedia"
 
