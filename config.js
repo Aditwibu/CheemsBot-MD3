@@ -48,18 +48,18 @@ global.socialm = "GitHub: Aditwibu" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Rexxy" //ur bot name
-global.websitex = "https://youtu.be/dwv65QSdXSU" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zOWbmpeB.mp4' } //gif and video menu
+global.botname = "Rias" //ur bot name
+global.websitex = "https://youtu.be/ifri3o6vR_U" //ur website
+global.vidmenu = { url: 'https://a.uguu.se/mXNYiizN.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['085640159364'] //ur owner tag
 global.ownernummenu = ['085640149364'] //ur owner number in menu and all
-global.watermark = "BotRexxy." //ur watermark
+global.watermark = "RiasBot." //ur watermark
 global.botscript = "Ambil Di Github Yang Punya Sc nya:DGXeon Jangan Lupa Folow Nya"
-global.linkz1 = "https://chat.whatsapp.com/Ju9UCvecNnV7E7BfTaZEpt"
+global.linkz1 = "https://chat.whatsapp.com/B9QFZFC55zD8w9BPkck9Ot"
 global.linkz2 = "Belom Tersedia"
 
 //Bot theme media
@@ -77,7 +77,7 @@ global.ntilinktg = []
 global.ntilinktt = []
 global.ntilinktwt = []
 global.ntilinkall = []
-global.nticall = []
+global.nticall = [true]
 global.ntwame = []
 global.nttoxic = []
 global.ntnsfw = []
